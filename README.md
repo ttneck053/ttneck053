@@ -24,7 +24,6 @@
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
         <div align= "center">
-        [(https://github-readme-stats.vercel.app/api/top-langs/?username=ttneck053&langs_count=5&layout=compact&theme=dark)](https://github.com/ttneck053/ttneck053)
         </div> 
     </div>
     
