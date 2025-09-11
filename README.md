@@ -23,10 +23,8 @@
     </div>
     <div align= "center"> 
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2> 
-        <div align= "center">
-// 백준티어
-            
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttneck01&theme=dark)](https://solved.ac/ttneck053) 
+        <div align= "center">           
+        [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ttneck01&theme=dark)](https://solved.ac/ttneck053) 
         </div> 
     </div>
     
